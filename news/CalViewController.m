@@ -95,6 +95,7 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
+    
     if (indexPath.row == 0)
     {
         DailyLessonViewController *controller = [[DailyLessonViewController alloc] initWithNSDate:_calendar.selectedDate query:nil];
