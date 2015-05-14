@@ -87,6 +87,7 @@
     cell.textLabel.font = [UIFont fontWithName:@"Arial" size:14];
     cell.textLabel.textColor = kBlueText;
     cell.textLabel.text = newsItem.title;
+    
     return cell;
 }
 
