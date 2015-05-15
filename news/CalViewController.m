@@ -95,7 +95,6 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    
     if (indexPath.row == 0)
     {
         DailyLessonViewController *controller = [[DailyLessonViewController alloc] initWithNSDate:_calendar.selectedDate query:nil];
@@ -126,7 +125,7 @@
 
 - (void)calendar:(FSCalendar *)calendar didSelectDate:(NSDate *)date
 {
-    NSLog(@"didSelectDate : %@", date);
+    //NSLog(@"didSelectDate : %@", date);
     [_dataArray removeAllObjects];
     
     NewsItem *tempNewsItem = [[NewsItem alloc] init];
