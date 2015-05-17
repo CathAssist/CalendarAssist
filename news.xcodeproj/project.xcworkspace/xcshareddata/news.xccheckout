@@ -10,29 +10,27 @@
 	<string>news</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>016C96A9DBE6960E29C6228494F3F6A74E7912A2</key>
+		<key>6ea91db2-5864-6def-a411-ce57b7db7bff</key>
 		<string>https://github.com/CathAssist/CalendarAssist</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>news.xcodeproj</string>
+	<string>trunk/news.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>016C96A9DBE6960E29C6228494F3F6A74E7912A2</key>
-		<string>../..</string>
+		<key>6ea91db2-5864-6def-a411-ce57b7db7bff</key>
+		<string>../../..</string>
 	</dict>
-	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/CathAssist/CalendarAssist</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>016C96A9DBE6960E29C6228494F3F6A74E7912A2</string>
+	<string>6ea91db2-5864-6def-a411-ce57b7db7bff</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
+			<string>public.vcs.subversion</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>016C96A9DBE6960E29C6228494F3F6A74E7912A2</string>
+			<string>6ea91db2-5864-6def-a411-ce57b7db7bff</string>
 			<key>IDESourceControlWCCName</key>
 			<string>CalendarAssist</string>
 		</dict>

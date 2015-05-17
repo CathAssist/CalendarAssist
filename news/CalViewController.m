@@ -14,7 +14,7 @@
 {
     if (self = [super init]) {
         
-        self.title = @"教會日曆";
+        self.title = @"日课小助手";
         
         self.navigationItem.backBarButtonItem = [[UIBarButtonItem alloc] initWithTitle:@" " style:UIBarButtonItemStyleBordered target:nil action:nil];
         
