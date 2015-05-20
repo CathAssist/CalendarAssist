@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0269201D-9D6F-45DD-BDE9-EA4F162629F0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CalendarAssist</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6ea91db2-5864-6def-a411-ce57b7db7bff</key>
+		<string>https://github.com/CathAssist/CalendarAssist</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/CalendarAssist.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6ea91db2-5864-6def-a411-ce57b7db7bff</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6ea91db2-5864-6def-a411-ce57b7db7bff</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6ea91db2-5864-6def-a411-ce57b7db7bff</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CalendarAssist</string>
+		</dict>
+	</array>
+</dict>
+</plist>
